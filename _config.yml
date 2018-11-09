@@ -26,9 +26,7 @@ github_username:  jekyll
 paginate: 5
 # Build settings
 markdown: kramdown
-#theme: jekyll-theme-hacker
-theme: minimal-mistakes-jekyll
-#theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-paginate
